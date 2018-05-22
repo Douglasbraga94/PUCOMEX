@@ -1,0 +1,12 @@
+{
+  "name": "pucomex-chamaURL",
+  "version": "0.1.0",
+  "description": "Chama URL",
+  "license": "MIT",
+  "main": "pucomex-chamaURL.js",
+  "dependencies": {
+    "aws-sdk": "^2.138.0",
+    "q": "*",
+    "request": "*"
+  }
+}
